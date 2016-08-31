@@ -1,0 +1,21 @@
+body { background-color: aqua; }
+
+h1 { color: green; font-family: "Georgia", serif; }
+ 
+ p { line-height: 24px; }
+
+/* how to select a class using . */ 
+.chicken {
+ 	color: green;
+ }
+
+/* how to select an id using # */
+ #extra-crispy {
+ 	color: red;
+ }
+
+ img { height: 500px;
+       width: 50%; }
+
+ 
+
